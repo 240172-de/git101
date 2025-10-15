@@ -2,3 +2,4 @@
 
 こんにちは、GitHub！
 Test pull
+Lorem ipsum
