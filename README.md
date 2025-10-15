@@ -3,3 +3,4 @@
 こんにちは、GitHub！
 Test pull
 Lorem ipsum
+Change on branch fix
